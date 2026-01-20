@@ -6,7 +6,7 @@ Software developer with a focus on Python and Linux.
 
 ## About Me
 
-I primarily work with VS Code and am in the process of transitioning to Vim in 6 months.
+I primarily work with VS Code for python and nvim for bash.
 My main areas of interest include Python, Bash, and Linux.
 I enjoy building automation scripts in Bash and small Python applications.
 
@@ -35,7 +35,7 @@ My current technical focus areas are:
 **Tools & Technologies**
 - Terminal-based workflows (Ghostty)
 - Local AI models using Fabric
-- Planify for task and project organization
+- Taskwarrior for task and project organization
 
 ---
 
@@ -66,6 +66,3 @@ Actively improving my knowledge of Linux systems, especially Arch Linux.
 You can reach me via email: daemonnd@protonmail.com
 Open to discussions about Linux and Python
 
----
-
-*This profile reflects my ongoing learning process and technical interests.*
