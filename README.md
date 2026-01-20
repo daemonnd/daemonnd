@@ -63,7 +63,7 @@ Actively improving my knowledge of Linux systems, especially Arch Linux.
 
 ## Contact
 
-You can reach me via email: daemonnd@tutamail.com
+You can reach me via email: daemonnd@protonmail.com
 Open to discussions about Linux and Python
 
 ---
