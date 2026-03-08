@@ -36,6 +36,7 @@ My current technical focus areas are:
 - Terminal-based workflows (Ghostty)
 - Local AI models using Fabric
 - Taskwarrior for task and project organization
+- Calcurse as Calendar
 
 ---
 
