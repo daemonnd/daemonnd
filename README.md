@@ -25,7 +25,7 @@ My current technical focus areas are:
 
 **Languages**
 - Python
-- Bash (basic)
+- Bash (intermediate to advanced)
 - Java (basic)
 
 **Operating Systems**
