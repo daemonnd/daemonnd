@@ -6,8 +6,8 @@ Software developer with a focus on Python and Linux.
 
 ## About Me
 
-I primarily work with VS Code for python and nvim for bash.
-My main areas of interest include Python, Bash, and Linux.
+I primarily work with nvim as my editor for python and bash.
+My main areas of interest include Programming, AI, Cybersecurity and Linux.
 I enjoy building automation scripts in Bash and small Python applications.
 
 ---
@@ -16,6 +16,8 @@ I enjoy building automation scripts in Bash and small Python applications.
 
 My current technical focus areas are:
 - Python
+- Cybersecurity
+- AI integration in automations
 - Linux
 - Bash
 
@@ -24,7 +26,7 @@ My current technical focus areas are:
 ## Skills & Tools
 
 **Languages**
-- Python
+- Python (intermediate)
 - Bash (intermediate to advanced)
 - Java (basic)
 
@@ -34,8 +36,8 @@ My current technical focus areas are:
 
 **Tools & Technologies**
 - Terminal-based workflows (Ghostty)
-- Local AI models using Fabric
-- Taskwarrior for task and project organization
+- Local AI models using Ollama
+- Obsidian project note for task and project organization
 - Calcurse as Calendar
 
 ---
@@ -44,7 +46,7 @@ My current technical focus areas are:
 
 I enjoy working on projects related to automation.
 Some of my repositories focus on improving efficiency and saving time.
-Currently, I am interested in exploring Bash automation in more depth.
+Currently, I am interested in improving my Python skills.
 
 ---
 
@@ -57,8 +59,8 @@ I try to write code that is easy to read and understand for others.
 
 ## Learning & Growth
 
-Currently learning more about Bash, Git, and GitHub.
-Actively improving my knowledge of Linux systems, especially Arch Linux.
+Currently learning more about Python packages and Python CLIs.
+Actively improving my knowledge of Linux systems.
 
 ---
 
